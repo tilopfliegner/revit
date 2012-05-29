@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
   <AddIn Type="Command">
-    <Assembly>.\HelloWorld\HelloRevit.dll</Assembly>
+    <Assembly>.\HelloRevit\HelloRevit.dll</Assembly>
     <ClientId>BB98D6B0-C6BD-4CB5-9392-F7E8A00FF8DC</ClientId>
     <FullClassName>HelloRevit.Command</FullClassName>
     <Text>Hello Revit</Text>
